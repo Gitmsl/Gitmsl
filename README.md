@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael LoCascio (@Gitmsl)
-- 👀 I’m interested in building projects to display my proficiency, with the goal of joining a great company for my first software engineering position
-- 🌱 I’m currently learning React.JS, Node.JS, while constantly reviewing and practicing the fundamentals (HTML, CSS, JAVASCRIPT) 
+- 👀 I’m interested in joining a great organization that places emphasis on a healthy and supportive team environment
+- 🌱 I’m currently building projects to display my knowledge of html, css, react.js, node, and git, with an interest in expanding my knowledge base
 - 💞️ I’m looking to collaborate on a wide variety of projects, from web pages to social media apps, digital storefronts to gaming experiences.
 - 📫 You can reach me by email at michael.s.locascio@gmail.com 
 
