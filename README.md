@@ -20,7 +20,7 @@ I'm open to Frontend and Full-stack software engineering opportunities anywhere 
 ## Current Status
 👩‍💻 I'm working on Spiral-Mountain, my first crack at a fully deployed fullstack web application, centered around my biggest pastime: gaming. I'm learning a lot by pushing through problems I've encountered on the backend, and I'm looking forward to putting some elbow grease into the frontend when everything is running smoothly.
 
-🧠 I'm currently learning about techniques for maximizing page load speed, with caching being my current area of interest. On the side, I'm refreshing on core Javascript fundamentals while practicing leetcode problems.
+🧠 I'm currently learning about techniques for maximizing page load speed, with caching being my current area of interest. On the side, I'm refreshing on core Javascript fundamentals while practicing data structure and algorithm problems on Leetcode.
 
 ⏭ In the not-so-distant future, I'm looking forward to using what I've learned to do contract work for local businesses, redesigning and rebuilding websites from the ground up with accessibility and mobile-first layouts in mind. My ultimate goal is to position myself as a great candidate for a fulltime software engineering position at a company that values emoployee development, encourages mentorship, and might need some work on documentation, to which I'd love to contribute!
 
